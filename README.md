@@ -1,7 +1,8 @@
 # Sport-Center
 Written in Java
-to compile this implementation:
+
+To compile this implementation:
 javac *.java
 
-to run this implementation:
+To run this implementation:
 java Main
